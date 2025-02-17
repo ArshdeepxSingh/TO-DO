@@ -1,2 +1,2 @@
 # TO-DO
-This is a Minmalist TO-DO App built using Flutter BloC architecture 
+A Minmalist TO-DO App built using Flutter BloC architecture and utilises Hive for persisting Data storage
